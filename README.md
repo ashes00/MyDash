@@ -1,0 +1,1 @@
+MyDash is a simple self hosted browser dashboard launcher.
