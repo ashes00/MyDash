@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+.data {
+  color: white;
+  font-size: .85em;
+  font-family: "Ubuntu", Times, serif;
+}
+.data2 {
+  color: white;
+  font-size: 1em;
+  font-family: "Ubuntu", Times, serif;
+}
+
